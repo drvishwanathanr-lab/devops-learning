@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "Environment: DevOps Learning Lab"
 echo "========================================"
 echo "        DEVOPS SERVER HEALTH CHECK"
 echo "========================================"
